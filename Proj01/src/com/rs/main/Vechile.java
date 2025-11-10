@@ -6,6 +6,7 @@ public class Vechile {
 		System.out.println("Vehicle is started");
 		System.out.println("Vehicle is stopped");
 		System.out.println("vehicle again started");
+		System.out.println("vehicle again stopped");
 	}
 
 }
