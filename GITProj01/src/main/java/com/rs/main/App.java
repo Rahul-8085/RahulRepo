@@ -15,5 +15,7 @@ public class App {
 		System.out.println("=======================");
 		Digital dig=new Digital();
 		System.out.println(dig.SendMoney(541287964l, 50000.0, "Birsinghpur"));
+		System.out.println("=======================");
+		System.out.println("Thamk you !!");
 	}
 }
