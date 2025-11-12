@@ -8,5 +8,6 @@ public class App
     {
        Airthmetic arth=new Airthmetic();
    System.out.println("Result is: "+arth.Sum(10, 20));
+   System.out.println("Result is: "+arth.Sub(10, 20));
     }
 }
