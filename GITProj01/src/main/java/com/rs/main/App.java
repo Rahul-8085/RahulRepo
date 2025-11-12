@@ -1,13 +1,12 @@
 package com.rs.main;
 
-/**
- * Hello world!
- *
- */
+import com.rs.arth.Airthmetic;
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+       Airthmetic arth=new Airthmetic();
+   System.out.println("Result is: "+arth.Sum(10, 20));
     }
 }
